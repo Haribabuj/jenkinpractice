@@ -2,4 +2,4 @@
 echo "this script is from github"
 NUMBER=$(($NUMBERONE + $NUMBERTWO))
 echo "$NUMBER"
-echo "This was added by ribabu"
+echo "This was added by haribabu ribabu"
